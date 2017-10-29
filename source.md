@@ -1,23 +1,23 @@
-class: center, middle
+class: 计算概论B
 
-# 讲义题目
+#自我介绍
 
 &nbsp;
 &nbsp;
 
-#### 作者姓名 (author@email.com)  
+####  作者：吴金泽  
 
-主页: https://github.com/author
+邮箱：962602100@qq.com
 
 ---
 
-## 本讲内容
+## 自我介绍内容
 
 ### <font color="orangered">1. 第一部分</font>
 
-#### &nbsp; &nbsp; 1.1 如何学习
-#### &nbsp; &nbsp; 1.2 好好学习
-#### &nbsp; &nbsp; 1.3 好好学习
+#### &nbsp; &nbsp; 1.1 我是谁
+#### &nbsp; &nbsp; 1.2 我从哪里来
+#### &nbsp; &nbsp; 1.3 我要到哪里去
 
 ### 2. 第二部分
 
@@ -27,25 +27,24 @@ class: center, middle
 
 ## 第一部分
 
-```c
-int main()
-{
-  printf("Hello world\n");
-  return 0 ;
-}
-```
+
+
+我是数学科学学院的吴金泽
+
+我来自湖北省武汉市第二中学
+
+我想去国外继续深造
 
 ---
 
-## 插图
+## 第二部分
 
-** Ada Lovelace **
+爱学习，爱生活
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
 
 ---
 
-## `\(\LaTeX{}\)` in remark
+## \(\LaTeX{}\)第三部分
 
 
 1. This is an inline integral: `\(\int_a^bf(x)dx\)`
@@ -57,6 +56,6 @@ $$e^{i\pi} + 1 = 0$$
 
 ---
 
-class: center, middle
+class:计算概论B
 
 # 谢谢
