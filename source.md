@@ -20,8 +20,6 @@ Now I am a second year undergraduate student in [School Of Mathimatical Science]
 
 ##topic interest
 
----
-
 computer graphic：shape analysis ,fluid simulation
 
 image processing
