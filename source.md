@@ -1,61 +1,31 @@
-class: 计算概论B
+#HOMEPAGE&nbsp;
 
-#自我介绍
+**Name:Jinze Wu** 
 
-&nbsp;
-&nbsp;
+**E-mail：962602100@qq.com**
 
-####  作者：吴金泽  
+**wechat**:JinzeWu1998
 
-邮箱：962602100@qq.com
+**Contact:** No. 5 Yiheyuan Road Beijing, 100871 People's Republic of China
 
----
-
-## 自我介绍内容
-
-### <font color="orangered">1. 第一部分</font>
-
-#### &nbsp; &nbsp; 1.1 我是谁
-#### &nbsp; &nbsp; 1.2 我从哪里来
-#### &nbsp; &nbsp; 1.3 我要到哪里去
-
-### 2. 第二部分
-
-### 3. 第三部分
+**Undergraduate**
 
 ---
 
-## 第一部分
+## bibography
 
+I came from Wuhan,Hubei.
 
+Now I am a second year undergraduate student in [School Of Mathimatical Science](http://www.math.pku.edu.cn/) at Peking University majoring    Computing Science advised by [Prof.Bin Dong](http://bicmr.pku.edu.cn/~dongbin). 
 
-我是数学科学学院的吴金泽
-
-我来自湖北省武汉市第二中学
-
-我想去国外继续深造
+##topic interest
 
 ---
 
-## 第二部分
+computer graphic：shape analysis ,fluid simulation
 
-爱学习，爱生活
+image processing
 
+machine learning theory and machine learning application
 
----
-
-## \(\LaTeX{}\)第三部分
-
-
-1. This is an inline integral: `\(\int_a^bf(x)dx\)`
-2. More `\(x={a \over b}\)` formulae.
-
-Display formula:
-
-$$e^{i\pi} + 1 = 0$$
-
----
-
-class:计算概论B
-
-# 谢谢
+# thanks
